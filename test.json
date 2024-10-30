@@ -4,9 +4,9 @@
        
 
     {
-        "key": "tjs","name": "tjs┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "jbd","name": "jbd┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/smtjs.json"
+        "ext": "./PantyHose/lib/jbdsm.json"
     },
     {
         "key": "HH","name": "豪华┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
